@@ -1,0 +1,71 @@
+        body {
+            background-color: grey;
+            height: 100%;
+        }
+        
+        .wrapper {
+            border: color 2px solid black;
+            display: grid;
+            width: 100%;
+            padding-bottom: px;
+            grid-row-gap: 0px;
+            grid-column-gap: 0px;
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+            padding: 0;
+            overflow: visible;
+        }
+        
+        .grid-1 {
+            background-image: url(canyon.jpg);
+            height: 50vh;
+            position: relative;
+        }
+        
+        .grid-2 {
+            background-color: aqua;
+            display: grid;
+            height: 14vh;
+            border: 2px solid black;
+        }
+        
+        .grid-3 {
+            background-color: cadetblue;
+            height: 20vh;
+        }
+        
+        .grid-4 {
+            background-color: violet;
+            height: 5vh;
+        }
+        
+        .grid-5 {
+            background-color: blueviolet;
+            height: 20vh;
+        }
+        
+        .grid-6 {
+            background-color: yellow;
+            height: 5vh
+        }
+        
+        .grid-7 {
+            background-color: chartreuse;
+            height: 20vh;
+        }
+        
+        .grid-8 {
+            background-color: cornflowerblue;
+            height: 5vh;
+        }
+        
+        .nested-grid-1 {
+            height: 10vh;
+        }
+        
+        .nested-grid-2 {
+            background-color: red;
+        }
+        
+        .nested-grid-3 {}
