@@ -1,3 +1,3 @@
 # scroll-image
 
-index.html
+index.htmlファイルをダブルクリックして実行します。
